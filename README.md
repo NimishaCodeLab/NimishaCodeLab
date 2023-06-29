@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NimishaCodeLab
-- 👀 I’m interested in Data Science, Business analysts,Python programming.
+- 👀 I’m interested in Data Science,Machine Learning Algorithms, Business analysts,Python programming.
 - 🌱 I’m currently learning Artificial Intelligence(ML/DL)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
